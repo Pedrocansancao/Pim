@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Adicionarusuários.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.CadastroLivros.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Consultadeusuarios.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Consulta_de_Livroscs.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Emprestimopendentes.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Listaemprestimo.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Listadelivros.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Listausuarios.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Form1.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Realizaremprestimo.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\SistemaBibliotecaBonito.Registrardevolucao.resources
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\PIM-3.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\PIM-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Pedro\PIM 3.0\projeto-pim-main\PIM-3\obj\Release\net9.0-windows\PIM-3.csproj.CoreCompileInputs.cache

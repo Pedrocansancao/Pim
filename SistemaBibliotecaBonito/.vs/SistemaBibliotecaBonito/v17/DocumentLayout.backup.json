@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|c:\\users\\pedro\\onedrive\\documentos\\pedro\\pim 3.0\\projeto-pim-main\\sistemabibliotecabonito\\sistemabibliotecabonito\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|c:\\users\\pedro\\onedrive\\documentos\\pedro\\pim 3.0\\projeto-pim-main\\sistemabibliotecabonito\\sistemabibliotecabonito\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\realizaremprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\realizaremprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\consultadeusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\consultadeusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\registrardevolucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\registrardevolucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\registrardevolucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\registrardevolucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\adicionarusu\u00E1rios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\adicionarusu\u00E1rios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\adicionarusu\u00E1rios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\adicionarusu\u00E1rios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\consultalivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\consultalivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\consultalivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\consultalivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\cadastrolivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\cadastrolivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\cadastrolivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\cadastrolivros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\sistemabibliotecabonito\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E998E1-6F73-45C9-A5D1-5B3266AEB35F}|SistemaBibliotecaBonito\\SistemaBibliotecaBonito.csproj|solutionrelative:sistemabibliotecabonito\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\FormLogin.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\FormLogin.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:48:05.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\FormLogin.cs [Design]",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:46:56.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Adicionarusu\u00E1rios.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Adicionarusu\u00E1rios.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Adicionarusu\u00E1rios.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Adicionarusu\u00E1rios.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Adicionarusu\u00E1rios.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAgwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:20:12.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsultaLivros.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\ConsultaLivros.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\ConsultaLivros.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\ConsultaLivros.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\ConsultaLivros.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:18:00.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CadastroLivros.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\CadastroLivros.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\CadastroLivros.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\CadastroLivros.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\CadastroLivros.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAYwLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:11:33.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Program.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:04:00.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Emprestimo.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:02:39.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Usuario.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T20:01:08.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Menu.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Menu.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Menu.cs [Design]",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:52:53.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consultadeusuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Consultadeusuarios.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Consultadeusuarios.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Consultadeusuarios.cs [Design]",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Consultadeusuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T21:14:39.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultaLivros.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\ConsultaLivros.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\ConsultaLivros.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\ConsultaLivros.cs [Design]",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\ConsultaLivros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:43:05.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Realizaremprestimo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Realizaremprestimo.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Realizaremprestimo.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Realizaremprestimo.cs [Design]",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Realizaremprestimo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:33:14.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CadastroLivros.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\CadastroLivros.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\CadastroLivros.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\CadastroLivros.cs [Design]",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\CadastroLivros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:19:34.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Adicionarusu\u00E1rios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Adicionarusu\u00E1rios.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Adicionarusu\u00E1rios.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Adicionarusu\u00E1rios.cs [Design]",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Adicionarusu\u00E1rios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T20:16:11.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registrardevolucao.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Registrardevolucao.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Registrardevolucao.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Registrardevolucao.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Registrardevolucao.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAQwIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:15:44.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registrardevolucao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Registrardevolucao.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Registrardevolucao.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Registrardevolucao.cs [Design]",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Registrardevolucao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:11:01.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Livro.cs",
+              "RelativeDocumentMoniker": "SistemaBibliotecaBonito\\Livro.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Documentos\\Pedro\\PIM 3.0\\projeto-pim-main\\SistemaBibliotecaBonito\\SistemaBibliotecaBonito\\Livro.cs",
+              "RelativeToolTip": "SistemaBibliotecaBonito\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T18:52:48.54Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
